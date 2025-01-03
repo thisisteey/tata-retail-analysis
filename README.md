@@ -6,6 +6,11 @@
 
 In today’s competitive retail industry, understanding customer purchasing behavior, regional demand patterns, and revenue trends is crucial for making data-driven business decisions. This analysis explores the sales performance across various regions, products, and customer segments, providing insights into revenue growth, seasonal demand, and top-performing customers. By examining these key factors, businesses can optimize marketing strategies, identify expansion opportunities, and enhance product offerings to maximize profitability. The goal is to leverage data to make informed decisions that will drive retail growth and customer satisfaction.
 
+## **Tools Used:**
+
+- **SQL:** For data extraction, cleaning, and aggregation. SQL queries were used to analyze trends, segment customers, and calculate key metrics like revenue and demand.
+- **Tableau:** For data visualization. Tableau was used to create interactive dashboards and visual reports that communicate the insights derived from the dataset.
+
 ## **Ultimate Question:**
 
 How do revenue trends, demand patterns, and customer behavior influence retail sales performance, and how can these insights be used to optimize business strategies, customer segmentation, and product offerings?
